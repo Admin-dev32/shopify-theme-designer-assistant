@@ -9,7 +9,7 @@ Shopify Theme Designer Assistant
 ## Upload steps
 
 1. Create a new ChatGPT Project named `Shopify Theme Designer Assistant`.
-2. Upload all files from `project-knowledge-pack/` into the Project Knowledge area, including `10-shopify-square-csv-upload-rules.md`.
+2. Upload all files from `project-knowledge-pack/` into the Project Knowledge area, including `project-knowledge-pack/10-shopify-square-csv-upload-rules.md` for Shopify CSV and Square XLSX/CSV upload planning rules.
 3. Open `01-project-instructions.md`.
 4. Copy the full contents of `01-project-instructions.md` into the Project Instructions field for the ChatGPT Project.
 5. Use this ChatGPT Project whenever working on Shopify design, Shopify implementation specs, Shopify Liquid/HTML/CSS/JS code, Shopify editor debugging, or Codex prompts for real Shopify theme repos.
