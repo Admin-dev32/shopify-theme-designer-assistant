@@ -6,6 +6,9 @@
   "scripts": {
     "download:shopify-docs": "node scripts/download-shopify-docs.mjs",
     "download:shopify-docs:dry": "node scripts/download-shopify-docs.mjs --dry-run",
-    "download:shopify-docs:test": "node scripts/download-shopify-docs.mjs --limit=3 --retry=1 --timeout=15000"
+    "download:shopify-docs:test": "node scripts/download-shopify-docs.mjs --limit=3 --retry=1 --timeout=15000",
+    "download:square-docs": "node scripts/download-square-docs.mjs",
+    "download:square-docs:dry": "node scripts/download-square-docs.mjs --dry-run",
+    "download:square-docs:test": "node scripts/download-square-docs.mjs --limit=3 --retry=1 --timeout=15000"
   }
 }
